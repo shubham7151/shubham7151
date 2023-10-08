@@ -1,11 +1,13 @@
-<h1 align="center">Namaste 🙏, I'm Shubham Dubey</h1>
-<h3 align="center">A QA Automation Guru | Ensuring Bug-Free Software Releases</h3>
+<h1 align="center">Hi 🙏, I'm Shubham Dubey</h1>
+<h3 align="center">A QA Automation Rookie | Ensuring Bug-Free Software Releases</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7151&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7151" /> </p>
 
 - 🔭 I’m currently pursuing **Msc Advance Computer Science at University of Leeds**
 
 - 👨‍💻 All of my projects are available at [https://shubham7151.github.io/profile/](https://shubham7151.github.io/profile/)
+
+- 💬 Ask me about **QA Automation, Testing framework.**
 
 - 📫 How to reach me **dubeys7151@gmail.com**
 
