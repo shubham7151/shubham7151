@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubham7151.github.io/profile/](https://shubham7151.github.io/profile/)
 
-- 💬 Ask me about **QA Automation, Testing framework.**
+- 💬 Ask me about **Software Design, Development and Deployment**
 
 - 📫 How to reach me **dubeys7151@gmail.com**
 
