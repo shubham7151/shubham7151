@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙏, I'm Shubham Dubey</h1>
-<h3 align="center">Turning ideas into code, one commit at a time. | SDE @ Apexon</h3>
+<h3 align="center">Turning ideas into code, one commit at a time. | GENAI ENGINEER @ AJ-BELL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7151&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7151" /> </p>
 
